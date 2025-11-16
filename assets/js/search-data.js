@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-sharing-the-teg-automl-2nd-place-solution-workshop-link",
+          title: 'Sharing the TEG-AutoML 2nd-place solution. Workshop link.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-adanic-towards-practical-neural-image-compression-via-dynamic-transform-routing-accepted-to-iccv-2023",
+          title: '“AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing” accepted to ICCV...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-slides-and-demos-shared-for-tinytron-s-winning-submissions-workshop-link",
+          title: 'Slides and demos shared for Tinytron’s winning submissions. Workshop link.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
