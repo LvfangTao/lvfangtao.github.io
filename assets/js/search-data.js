@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/scholar.google.com/citations?user=ZqPV9OEAAAAJ";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -391,14 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-sharing-the-teg-automl-2nd-place-solution-workshop-link",
-          title: 'Sharing the TEG-AutoML 2nd-place solution. Workshop link.',
+            },},{id: "news-presenting-team-teg-automl-s-2nd-place-solution-as-project-lead-in-neurips-2022-competition-workshop-automl-decathlon-diverse-tasks-modern-methods-and-efficiency-at-scale-workshop-link",
+          title: 'Presenting Team TEG-AutoML’s 2nd-place solution as Project Lead in NeurIPS 2022 competition workshop...',
           description: "",
-          section: "News",},{id: "news-adanic-towards-practical-neural-image-compression-via-dynamic-transform-routing-accepted-to-iccv-2023",
+          section: "News",},{id: "news-adanic-towards-practical-neural-image-compression-via-dynamic-transform-routing-accepted-to-iccv-2023-first-author-paper-link",
           title: '“AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing” accepted to ICCV...',
           description: "",
-          section: "News",},{id: "news-slides-and-demos-shared-for-tinytron-s-winning-submissions-workshop-link",
-          title: 'Slides and demos shared for Tinytron’s winning submissions. Workshop link.',
+          section: "News",},{id: "news-presenting-tinytron-s-double-1st-place-solutions-model-compression-amp-amp-pretrain-tracks-as-project-lead-in-neurips-2024-competition-workshop-edge-device-large-language-model-competition-workshop-link",
+          title: 'Presenting Tinytron’s double-1st-place solutions (model compression &amp;amp;amp; pretrain tracks) as Project Lead in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
