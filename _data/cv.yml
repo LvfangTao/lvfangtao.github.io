@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: Lvfang Tao
+    - name: Role
+      value: Researcher, Tencent
+    - name: Email
+      value: ltao@pku.edu.cn
+    - name: Profiles
+      value: <a href="https://scholar.google.com/citations?user=ZqPV9OEAAAAJ">Google Scholar</a>, <a href="https://openreview.net/profile?id=%7ELvfang_Tao1">OpenReview</a>, <a href="https://www.linkedin.com/in/lvfang-tao-952458171/">LinkedIn</a>
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher
+      institution: Tencent
+      year: Jul 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Reinforcement learning, LLM post-training (on-policy distillation, RLVR), and agents for games.
+        - Pretraining and mid-training across small language models (SLMs) and large language models (LLMs), multimodal (text/audio/other).
+        - AutoML for model & compute schedule optimization; neural compression for efficient on-device deployment.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master of Science, Computer Science
+      institution: Peking University
+      year: Sep 2019 - Jul 2022
+      description:
+        - Merit Student of Peking University (Top 10%).
+        - Focus on AutoML, efficient neural architectures, compression, and high-level synthesis.
+    - title: Bachelor of Engineering, Electrical, Electronics and Communications Engineering
+      institution: Nanjing Tech University
+      year: Sep 2015 - Jul 2019
+      description:
+        - Merit Student Pacemaker (Top 5%).
+        - Skills in EEG seizure detection, computer organization, FPGA prototyping, and logic/PCB design.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - 2024 Edge-Device Large Language Model Competition — NeurIPS Competition Track, Team Tinytron, Project Lead <a href="https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/leaderboard">[Leaderboard]</a> <a href="https://github.com/Tinytron/edge-llms-challenge-final-submission">[Repo]</a> <a href="https://boom-modem-1cc.notion.site/Tinytron-Technical-Report-15d780ce977a8090a988fd8fd796b3c3">[Technical Report]</a>
+        - Tencent Sustainable Social Value Award — Tencent AIArena Serving National AI Talent Cultivation, Contributor
+    - year: 2022
       items:
-        - Max Planck Medal
+        - AutoML Decathlon, NeurIPS Competition Track, Team TEG-AutoML, Project Lead <a href="https://proceedings.mlr.press/v220/roberts23a/roberts23a.pdf">[Paper]</a>
 
-- title: Academic Interests
+- title: Specialties
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Post-training & RL
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - On-policy distillation; RLVR workflows; agentic RL for game agents.
+        - Surpassed ReTool on AIME24/25 prior to open-source release.
+    - title: Pretraining & Mid-training
       items:
-        - Description 1.
-        - Description 2.
+        - Multi-scale small and large language models (SLMs/LLMs).
+        - Multimodal text/audio/other pipelines.
+    - title: On-Device AI & AutoML
+      items:
+        - Edge model compression and deployment; AutoML for model optimization.
 
-- title: Other Interests
+- title: Current Scope
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - AIGC in Gaming
+    - Reinforcement Learning Open Platform
+    - Education & outreach via open competitions and courses for students and researchers.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Reinforcement Learning
+    - Large Language Models (LLMs)
+    - Agents
+    - AutoML
+    - Neural Compression

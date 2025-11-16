@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher @ Tencent · Reinforcement Learning · LLMs & Agents · AutoML · Neural Compression
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:ltao@pku.edu.cn">ltao@pku.edu.cn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher at Tencent working on reinforcement learning, LLMs and agents, AutoML, and neural compression for efficient deployment. I lead applied research on multi-scale pretraining and mid-training across small language models (SLMs) and large language models (LLMs) over text, audio, and other modalities, with a strong focus on post-training (on-policy distillation, RLVR) and agentic RL.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recent highlights include leading the Tinytron team to 1st place in the NeurIPS 2024 Edge-Device LLM competition (model compression & pretrain tracks) and the TEG-AutoML team to 2nd place in the NeurIPS 2022 AutoML Decathlon. I collaborate on AIGC in gaming and open RL platforms for education and research.
