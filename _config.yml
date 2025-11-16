@@ -6,8 +6,7 @@ title: Lvfang Tao # the website title (if blank, full name will be used instead)
 first_name: Lvfang
 middle_name:
 last_name: Tao
-contact_note: >
-  Preferred contact: ltao@pku.edu.cn
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Researcher at Tencent. Reinforcement learning, LLMs and agents, AutoML, and neural compression for efficient deployment.
 footer_text: >

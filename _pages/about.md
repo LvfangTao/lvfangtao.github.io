@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher @ Tencent · Reinforcement Learning · LLMs & Agents · AutoML · Neural Compression
+subtitle: "Researcher @ Tencent<br>Reinforcement Learning · LLMs & Agents · AutoML · Neural Compression"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # remove portrait
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="mailto:ltao@pku.edu.cn">ltao@pku.edu.cn</a></p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -20,11 +19,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher at Tencent working on reinforcement learning, LLMs and agents, AutoML, and neural compression for efficient deployment. I lead applied research on multi-scale pretraining and mid-training across small language models (SLMs) and large language models (LLMs) over text, audio, and other modalities, with a strong focus on post-training (on-policy distillation, RLVR) and agentic RL.
-
-Recent highlights include leading the Tinytron team to 1st place in the NeurIPS 2024 Edge-Device LLM competition (model compression & pretrain tracks) and the TEG-AutoML team to 2nd place in the NeurIPS 2022 AutoML Decathlon. I collaborate on AIGC in gaming and open RL platforms for education and research.
+I have been a researcher at Tencent since 2022, after receiving my Master of Science degree from the School of Electronic and Computer Engineering ([SECE](https://www.ece.pku.edu.cn/)) at [Peking University](https://www.pku.edu.cn/). My most recent work focuses on post-training covering on-policy distillation, RLVR, and agentic reinforcement learning. Prior to and in parallel with this, I have led research on from-scratch and continual pretraining of both small and large language models across text, speech, and image modalities. I also collaborate on AI agents for games and on developing reinforcement-learning platforms for education and research.
