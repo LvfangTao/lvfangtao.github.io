@@ -6,7 +6,7 @@ subtitle: "Researcher @ Tencent<br>Reinforcement Learning · LLMs & Agents · Au
 
 profile:
   align: right
-  image: # remove portrait
+  image: harbour_city.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
