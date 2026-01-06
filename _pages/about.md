@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Researcher @ Tencent<br>Reinforcement Learning · LLMs & Agents · AutoML · Neural Compression"
+subtitle: "Reinforcement Learning · Multimodal LLMs & Agents · AutoML · Neural Compression"
 
 profile:
   align: right
