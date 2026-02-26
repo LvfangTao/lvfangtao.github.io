@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting Tinytron’s double-1st-place solutions (model compression & pretrain tracks) as Project Lead in NeurIPS 2024 competition workshop “Edge-Device Large Language Model Competition”. <a href="https://neurips.cc/virtual/2024/competition/84790">Workshop link</a>.
+Presenting Tinytron’s **double-1st-place** solutions (model compression & pretrain tracks) as Project Lead in NeurIPS 2024 competition workshop “Edge-Device Large Language Model Competition”. <a href="https://neurips.cc/virtual/2024/competition/84790">Workshop link</a>.
